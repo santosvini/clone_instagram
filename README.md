@@ -4,7 +4,7 @@
 
 Módulo do curso de HTML Web Developer, do bootcamp realizado pela [Digital Innovation One](https://web.digitalinnovation.one/), com objetivo de fixar os conhecimentos sobre o HTML5 e CSS3. Utilizando posicionamento com flexbox, tal como reponsividade com media, abaixo links para apoio e treino das propriedades.
 
-![instagram_perfil](C:\Users\Eu\Documents\Estudos\Digital Innvation\instagram_perfil.PNG)
+![instagram_perfil](https://user-images.githubusercontent.com/46813491/104249832-f898ab00-544a-11eb-844a-ca2aa47effc4.PNG)
 
 # Aprendizado ::books:
 
